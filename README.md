@@ -4,13 +4,7 @@ Data analysis project using Python on Instacart's Grocery Basket.
 
 ## Objectives
 
-Clean and Merge orders, products, department, and customer data.
-
-Analyze data to answer marketing and sales team questions, including busiest times, highest grossing days, and loyal customers.
-
-Analyse data to identify differences in users' ordering habits based on factors like region, income, and loyalty status.
-
-Analyse customer profiles based on variables and consider variations in ordering behaviours.
+The project's goal is to clean and combine data on orders, goods, departments, and customers in order to analyse it for insights and responses to inquiries from the marketing and sales teams. It will pinpoint the busiest hours, the days with the highest sales, and repeat clients. Inconsistencies in users' ordering behaviours based on variables like location, income, and loyalty status will also be revealed through the investigation. The study tries to discover and take into account changes in ordering behaviours by looking at customer profiles utilising different variables.
 
 ## Tools
 
